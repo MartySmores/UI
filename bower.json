@@ -1,0 +1,28 @@
+{
+  "name": "DataAppReact",
+  "version": "0.0.1",
+  "homepage": "https://github.com/",
+  "authors": [
+    "Martin Somers <sononix@gmail.com>"
+  ],
+  "description": "React components for Leaflet maps",
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "~4.0.0",
+    "leaflet": "~0.7.0",
+    "react": "~0.14.0"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "leaflet"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
